@@ -1,0 +1,67 @@
+User: hi
+Bot: Hello, thanks for asking
+User: options
+Bot: Hello, thanks for asking
+User: search hospital data
+Bot: Please provide pharmacy name
+User: hospital
+Bot: Loading pharmacy details
+Bot: Please provide a rating for this chat out of 5
+User: what can you do?
+Bot: I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies
+User: check adverse drug
+Bot: Navigating to Adverse drug reaction module
+User: search blood pressure patient
+Bot: Patient ID?
+User: AX013
+Bot: Loading Blood pressure result for Patient
+User: search hospital
+Bot: Please provide pharmacy name
+User: leelawati
+Bot: Loading pharmacy details
+User: thanks
+Bot: Happy to help!
+User: bye
+Bot: Have a nice day
+Bot: Please provide a rating for this chat out of 5
+User: hello there
+Bot: Take care
+Bot: Please provide a rating for this chat out of 5
+User: hi
+Bot: Good to see you again
+User: what sevices you provide
+Bot: I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies
+User: blood pressure tracking
+Bot: Navigating to Blood Pressure module
+User: details
+Bot: Any time!
+User: bye
+Bot: Have a nice day
+Bot: Please provide a rating for this chat out of 5
+User: 2
+
+
+
+
+User: hello again
+Bot: Good to see you again
+User: help me
+Bot: Hi there, how can I help?
+User: how can you help me
+Bot: I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies
+User: check adverse drug
+Bot: Navigating to Adverse drug reaction module
+User: search blood type
+Bot: My pleasure
+User: search blood pressure
+Bot: Navigating to Blood Pressure module
+User: patient
+Bot: Any time!
+User: HI
+Bot: Hello, thanks for asking
+User: What can you do?
+Bot: I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies
+User: Check Adverse drug
+Bot: Navigating to Adverse drug reaction module
+User: Search blood pressure
+Bot: Navigating to Blood Pressure module
